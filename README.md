@@ -7,3 +7,5 @@ The chatbot's real-time money exchange feature offers a wide range of benefits, 
 
 PalPulse is a game-changer for businesses looking to enhance their customer service, streamline financial transactions, and provide a seamless user experience. With its friendly chat capabilities and advanced real-time money exchange functionalities, PalPulse is a valuable asset for modern enterprises seeking to stay ahead in today's fast-paced digital landscape.
 
+One can use it through telegram at: <a href="t.me/PalPulse_bot" target="_blank">PalPulse_Bot</a>
+
